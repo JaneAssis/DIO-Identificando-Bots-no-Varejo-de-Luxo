@@ -75,3 +75,12 @@ Resultando em uma saída de dados com mais ruídos e realista. (*como mostram as
 Ao final do projeto, tem-se o notebook que resolve a questão de detecção de fraudes de forma adaptável para o mercado de luxo. 
 
 **REFERÊNCIAS BIBLIOGRÁFICAS**
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+https://www.python.org/
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange.svg)
+http://scikit-learn.org/
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)
+https://pandas.pydata.org/ 
